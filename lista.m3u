@@ -8,3 +8,6 @@ http://201.148.116.23:8085/udp/224.224.0.23:4000
 
 #EXTINF:-1 tvg-name="SPORTV",SPORTV
 http://201.148.116.23:8085/udp/224.224.0.39:4000
+
+#EXTINF:-1 tvg-name="SPORTV_Transcodado",SPORTV_Transcodado
+http://201.148.116.23:8085/udp/239.192.1.251:1234
