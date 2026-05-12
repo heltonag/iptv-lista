@@ -1,19 +1,439 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="NUMERO CANAL" group-title="TV",NOME CANAL
+STREAM
 
-#EXTINF:-1 tvg-name="TV SOROCABA",TV SOROCABA
+#EXTINF:-1 tvg-chno="0002" group-title="TV",TV CAMARA
+https://201.148.116.23:8043/TV_Camara/index.m3u8
+
+#EXTINF:-1 tvg-chno="0003" group-title="TV",TV SENADO
+http://201.148.116.23:8085/udp/224.224.0.3:4000
+
+#EXTINF:-1 tvg-chno="0004" group-title="TV",TV JUSTICA
+http://201.148.116.23:8085/udp/224.224.0.4:4000
+
+#EXTINF:-1 tvg-chno="0005" group-title="TV",TV ALESP
+http://201.148.116.23:8085/udp/224.224.0.5:4000
+
+#EXTINF:-1 tvg-chno="0006" group-title="TV",CANAL EDUCACAO
+http://201.148.116.23:8085/udp/224.224.0.6:4000
+
+#EXTINF:-1 tvg-chno="0007" group-title="TV",TV UNIVESP
+http://201.148.116.23:8085/udp/224.224.0.7:4000
+
+#EXTINF:-1 tvg-chno="0008" group-title="TV",CANAL SAUDE
+http://201.148.116.23:8085/udp/224.224.0.8:4000
+
+#EXTINF:-1 tvg-chno="0009" group-title="TV",TV BRASIL
+https://201.148.116.23:8043/tvbrasil/index.m3u8
+
+#EXTINF:-1 tvg-chno="0010" group-title="TV",SESC TV
+https://201.148.116.23:8043/sesc_tv/index.m3u8
+
+#EXTINF:-1 tvg-chno="0012" group-title="TV",TV DIARIO
+http://201.148.116.23:8085/udp/224.224.0.12:4000
+
+#EXTINF:-1 tvg-chno="0013" group-title="TV",REDE BRASIL
+http://201.148.116.23:8085/udp/224.224.0.13:4000
+
+#EXTINF:-1 tvg-chno="0014" group-title="TV",NEW BRASIL
+http://201.148.116.23:8085/udp/224.224.0.14:4000
+
+#EXTINF:-1 tvg-chno="0015" group-title="TV",POLISHOP
+http://201.148.116.23:8085/udp/224.224.0.15:4000
+
+#EXTINF:-1 tvg-chno="0020" group-title="TV",LMC+
+https://201.148.116.23:8043/LMC/index.m3u8
+
+#EXTINF:-1 tvg-chno="0021" group-title="TV",TV CULTURA
+http://201.148.116.23:8085/udp/224.224.0.21:4000
+
+#EXTINF:-1 tvg-chno="0022" group-title="TV",TV SOROCABA
 http://201.148.116.23:8085/udp/224.224.0.22:4000
 
-#EXTINF:-1 tvg-name="TV TEM",TV TEM
+#EXTINF:-1 tvg-chno="0023" group-title="TV",TV TEM
 http://201.148.116.23:8085/udp/224.224.0.23:4000
 
-#EXTINF:-1 tvg-name="SPORTV",SPORTV
-http://201.148.116.23:8085/udp/224.224.0.39:4000
+#EXTINF:-1 tvg-chno="0024" group-title="TV",REDE GLOBO
+http://201.148.116.23:8085/udp/224.224.0.24:4000
 
-#EXTINF:-1 tvg-name="SPORTV_Transcodado",SPORTV_Transcodado
+#EXTINF:-1 tvg-chno="0025" group-title="TV",BAND
+http://201.148.116.23:8085/udp/224.224.0.25:4000
+
+#EXTINF:-1 tvg-chno="0026" group-title="TV",RECORD INTERIOR
+http://201.148.116.23:8085/udp/224.224.0.26:4000
+
+#EXTINF:-1 tvg-chno="0027" group-title="TV",RECORD TV
+http://201.148.116.23:8085/udp/224.224.0.27:4000
+
+#EXTINF:-1 tvg-chno="0028" group-title="TV",TV GAZETA
+http://201.148.116.23:8085/udp/224.224.0.28:4000
+
+#EXTINF:-1 tvg-chno="0029" group-title="TV",REDETV
+http://201.148.116.23:8085/udp/224.224.0.29:4000
+
+#EXTINF:-1 tvg-chno="0030" group-title="TV",CNT
+http://201.148.116.23:8085/udp/224.224.0.30:4000
+
+#EXTINF:-1 tvg-chno="0034" group-title="TV",FUTURA
+https://201.148.116.23:8043/futura/index.m3u8
+
+#EXTINF:-1 tvg-chno="0035" group-title="TV",OFF
+http://201.148.116.23:8085/udp/224.224.0.35:4000
+
+#EXTINF:-1 tvg-chno="0036" group-title="TV",GE TV
+http://201.148.116.23:8085/udp/224.224.0.36:4000
+
+#EXTINF:-1 tvg-chno="0037" group-title="TV",SPORTV 3
+http://201.148.116.23:8085/udp/224.224.0.32:4000
+
+#EXTINF:-1 tvg-chno="0038" group-title="TV",SPORTV 2
+http://201.148.116.23:8085/udp/224.224.0.31:4000
+
+#EXTINF:-1 tvg-chno="0039" group-title="TV",SPORTV
 http://201.148.116.23:8085/udp/239.192.1.251:1234
 
-#EXTINF:-1 tvg-name="Discovery_Channel",Discovery Channel
+#EXTINF:-1 tvg-chno="0040" group-title="TV",GLOBONEWS
+http://201.148.116.23:8085/udp/224.224.0.43:4000
+
+#EXTINF:-1 tvg-chno="0041" group-title="TV",GNT
+http://201.148.116.23:8085/udp/224.224.0.41:4000
+
+#EXTINF:-1 tvg-chno="0042" group-title="TV",MULTISHOW
+http://201.148.116.23:8085/udp/224.224.0.42:4000
+
+#EXTINF:-1 tvg-chno="0043" group-title="TV",GLOBOPLAY NOVELAS
+http://201.148.116.23:8087/udp/239.192.1.43:1234
+
+#EXTINF:-1 tvg-chno="0044" group-title="TV",MODO VIAGEM
+http://201.148.116.23:8085/udp/224.224.0.44:4000
+
+#EXTINF:-1 tvg-chno="0050" group-title="TV",GLOOB
+http://201.148.116.23:8085/udp/224.224.0.50:4000
+
+#EXTINF:-1 tvg-chno="0051" group-title="TV",DISCOVERY KIDS
+http://201.148.116.23:8086/udp/226.226.0.51:4000
+
+#EXTINF:-1 tvg-chno="0052" group-title="TV",BOX KIDS
+http://201.148.116.23:8085/udp/224.224.0.52:4000
+
+#EXTINF:-1 tvg-chno="0053" group-title="TV",HALLO ANIME
+https://201.148.116.23:8043/Hallo_Anime/index.m3u8
+
+#EXTINF:-1 tvg-chno="0054" group-title="TV",RATIMBUM
+http://201.148.116.23:8085/udp/224.224.0.54:4000
+
+#EXTINF:-1 tvg-chno="0055" group-title="TV",CARTOON NETWORK
+http://201.148.116.23:8085/udp/224.224.0.55:4000
+
+#EXTINF:-1 tvg-chno="0056" group-title="TV",CARTOONITO
+http://201.148.116.23:8085/udp/224.224.0.56:4000
+
+#EXTINF:-1 tvg-chno="0057" group-title="TV",TOONCAST
+http://201.148.116.23:8085/udp/224.224.0.57:4000
+
+#EXTINF:-1 tvg-chno="0058" group-title="TV",DUM DUM
+https://201.148.116.23:8043/dumdum/index.m3u8
+
+#EXTINF:-1 tvg-chno="0059" group-title="TV",LEO & LULLY
+https://201.148.116.23:8043/Leo_E_Lully/index.m3u8
+
+#EXTINF:-1 tvg-chno="0066" group-title="TV",REDE VIDA
+https://201.148.116.23:8043/Rede_Vida/index.m3u8
+
+#EXTINF:-1 tvg-chno="0067" group-title="TV",CANCAO NOVA
+http://201.148.116.23:8085/udp/224.224.0.67:4000
+
+#EXTINF:-1 tvg-chno="0068" group-title="TV",TV APARECIDA
+https://201.148.116.23:8043/TV_Aparecida/index.m3u8
+
+#EXTINF:-1 tvg-chno="0069" group-title="TV",BOA VONTADE TV
+http://201.148.116.23:8085/udp/224.224.0.69:4000
+
+#EXTINF:-1 tvg-chno="0070" group-title="TV",TV SECULO 21
+https://201.148.116.23:8043/RS21/index.m3u8
+
+#EXTINF:-1 tvg-chno="0071" group-title="TV",TV NAZARE BRASIL
+http://201.148.116.23:8085/udp/224.224.0.71:4000
+
+#EXTINF:-1 tvg-chno="0072" group-title="TV",TV EVANGELIZAR
+http://201.148.116.23:8085/udp/224.224.0.72:4000
+
+#EXTINF:-1 tvg-chno="0074" group-title="TV",REDE GOSPEL
+http://201.148.116.23:8085/udp/224.224.0.72:4000
+
+#EXTINF:-1 tvg-chno="0075" group-title="TV",REDE SUPER
+http://201.148.116.23:8085/udp/224.224.2.75:4000
+
+#EXTINF:-1 tvg-chno="0076" group-title="TV",TV MUNDO MAIOR
+http://201.148.116.23:8085/udp/224.224.0.76:4000
+
+#EXTINF:-1 tvg-chno="0077" group-title="TV",TV NOVO TEMPO
+https://201.148.116.23:8043/TV_Novo_Tempo/index.m3u8
+
+#EXTINF:-1 tvg-chno="0080" group-title="TV",JP NEWS
+http://201.148.116.23:8085/udp/224.224.0.80:4000
+
+#EXTINF:-1 tvg-chno="0081" group-title="TV",RECORD NEWS
+http://201.148.116.23:8085/udp/224.224.0.81:4000
+
+#EXTINF:-1 tvg-chno="0082" group-title="TV",BAND NEWS
+http://201.148.116.23:8085/udp/224.224.0.82:4000
+
+#EXTINF:-1 tvg-chno="0083" group-title="TV",CNN BRASIL
+http://201.148.116.23:8085/udp/224.224.0.83:4000
+
+#EXTINF:-1 tvg-chno="0084" group-title="TV",CNN INTERNACIONAL
+http://201.148.116.23:8085/udp/239.192.1.84:1234
+
+#EXTINF:-1 tvg-chno="0085" group-title="TV",CNN ESPANOL
+http://201.148.116.23:8085/udp/224.224.0.85:4000
+
+#EXTINF:-1 tvg-chno="0086" group-title="TV",CNN MONEY
+https://201.148.116.23:8043/CNN_Money/index.m3u8
+
+#EXTINF:-1 tvg-chno="0087" group-title="TV",TIMES BRASIL | CNBC
+https://201.148.116.23:8043/Times_Brasil/index.m3u8
+
+#EXTINF:-1 tvg-chno="0088" group-title="TV",CANAL UOL
+https://201.148.116.23:8043/Canal_UOL/index.m3u8
+
+#EXTINF:-1 tvg-chno="0090" group-title="TV",ESPN
+http://201.148.116.23:8085/udp/224.224.0.91:4000
+
+#EXTINF:-1 tvg-chno="0091" group-title="TV",ESPN 2
+http://201.148.116.23:8085/udp/224.224.0.92:4000
+
+#EXTINF:-1 tvg-chno="0092" group-title="TV",ESPN 3
+http://201.148.116.23:8085/udp/224.224.0.93:4000
+
+#EXTINF:-1 tvg-chno="0093" group-title="TV",ESPN 4
+http://201.148.116.23:8085/udp/224.224.0.94:4000
+
+#EXTINF:-1 tvg-chno="0094" group-title="TV",FOX SPORTS 2
+http://201.148.116.23:8085/udp/224.224.0.95:4000
+
+#EXTINF:-1 tvg-chno="0095" group-title="TV",ESPN EXTRA
+http://201.148.116.23:8085/udp/224.224.0.90:4000
+
+#EXTINF:-1 tvg-chno="0096" group-title="TV",BAND SPORTS
+http://201.148.116.23:8085/udp/224.224.0.96:4000
+
+#EXTINF:-1 tvg-chno="0097" group-title="TV",WOOHOO
+http://201.148.116.23:8085/udp/224.224.0.97:4000
+
+#EXTINF:-1 tvg-chno="0101" group-title="TV",DW (in english)
+https://201.148.116.23:8043/DW_Deutsch/index.m3u8
+
+#EXTINF:-1 tvg-chno="0102" group-title="TV",DW (en espanol)
+https://201.148.116.23:8043/DW_Espanhol/index.m3u8
+
+#EXTINF:-1 tvg-chno="0103" group-title="TV",RAI
+https://201.148.116.23:8043/rai/index.m3u8
+
+#EXTINF:-1 tvg-chno="0104" group-title="TV",NHK WORLD
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-chno="0110" group-title="TV",BIS
+http://201.148.116.23:8086/udp/226.226.0.110:4000
+
+#EXTINF:-1 tvg-chno="0111" group-title="TV",ARTE1
+http://201.148.116.23:8086/udp/226.226.0.111:4000
+
+#EXTINF:-1 tvg-chno="0112" group-title="TV",CURTA!
+https://201.148.116.23:8043/curta/index.m3u8
+
+#EXTINF:-1 tvg-chno="0113" group-title="TV",MUSIC BOX BRASIL
+http://201.148.116.23:8086/udp/226.226.0.113:4000
+
+#EXTINF:-1 tvg-chno="0114" group-title="TV",TRAVEL BOX BRASIL
+http://201.148.116.23:8086/udp/226.226.0.114:4000
+
+#EXTINF:-1 tvg-chno="0115" group-title="TV",PLAY TV
+https://201.148.116.23:8043/PlayTv/index.m3u8
+
+#EXTINF:-1 tvg-chno="0116" group-title="TV",ADULT SWIN
+http://201.148.116.23:8086/udp/226.226.0.116:4000
+
+#EXTINF:-1 tvg-chno="0117" group-title="TV",HALLO MUSIC
+https://201.148.116.23:8043/Hallo_Music/index.m3u8
+
+#EXTINF:-1 tvg-chno="0118" group-title="TV",LIFETIME
+http://201.148.116.23:8085/udp/226.226.0.118:4000
+
+#EXTINF:-1 tvg-chno="0119" group-title="TV",FASHION TV
+http://201.148.116.23:8085/udp/224.224.0.130:4000
+
+#EXTINF:-1 tvg-chno="0129" group-title="TV",CANAL BRASIL
+http://201.148.116.23:8086/udp/226.226.0.129:4000
+
+#EXTINF:-1 tvg-chno="0130" group-title="TV",ISTV
+http://201.148.116.23:8085/udp/224.224.0.130:4000
+
+#EXTINF:-1 tvg-chno="0131" group-title="TV",TNT
+http://201.148.116.23:8087/udp/239.192.1.131:1234
+
+#EXTINF:-1 tvg-chno="0132" group-title="TV",TNT SERIES
+http://201.148.116.23:8087/udp/239.192.1.132:1234
+
+#EXTINF:-1 tvg-chno="0133" group-title="TV",SPACE
+http://201.148.116.23:8087/udp/239.192.1.133:1234
+
+#EXTINF:-1 tvg-chno="0134" group-title="TV",STUDIO UNIVERSAL
+http://201.148.116.23:8086/udp/226.226.0.150:4000
+
+#EXTINF:-1 tvg-chno="0135" group-title="TV",CINEMAX
+http://201.148.116.23:8087/udp/239.192.1.135:1234
+
+#EXTINF:-1 tvg-chno="0136" group-title="TV",CINE BRASIL
+https://201.148.116.23:8043/cinebrasil/index.m3u8
+
+#EXTINF:-1 tvg-chno="0137" group-title="TV",TCM
+https://201.148.116.23:8043/TCM/index.m3u8
+
+#EXTINF:-1 tvg-chno="0138" group-title="TV",HBO
+http://201.148.116.23:8087/udp/239.192.1.138:1234
+
+#EXTINF:-1 tvg-chno="0139" group-title="TV",HBO2
+http://201.148.116.23:8087/udp/239.192.1.139:1234
+
+#EXTINF:-1 tvg-chno="0140" group-title="TV",HBO PLUS
+http://201.148.116.23:8087/udp/239.192.1.140:1234
+
+#EXTINF:-1 tvg-chno="0141" group-title="TV",HBO FAMILY
+http://201.148.116.23:8087/udp/239.192.1.141:1234
+
+#EXTINF:-1 tvg-chno="0142" group-title="TV",HBO SIGNATURE
+http://201.148.116.23:8087/udp/239.192.1.142:1234
+
+#EXTINF:-1 tvg-chno="0143" group-title="TV",HBO MUNDI
+http://201.148.116.23:8087/udp/239.192.1.143:1234
+
+#EXTINF:-1 tvg-chno="0144" group-title="TV",HBO POP
+http://201.148.116.23:8087/udp/239.192.1.144:1234
+
+#EXTINF:-1 tvg-chno="0145" group-title="TV",HBO XTREME
+http://201.148.116.23:8087/udp/239.192.1.145:1234
+
+#EXTINF:-1 tvg-chno="0146" group-title="TV",AXN
+http://201.148.116.23:8087/udp/239.192.1.146:1234
+
+#EXTINF:-1 tvg-chno="0147" group-title="TV",SONY
+http://201.148.116.23:8087/udp/239.192.1.147:1234
+
+#EXTINF:-1 tvg-chno="0148" group-title="TV",SONY MOVIES
+http://201.148.116.23:8087/udp/239.192.1.148:1234
+
+#EXTINF:-1 tvg-chno="0149" group-title="TV",A&E
+http://201.148.116.23:8087/udp/239.192.1.149:1234
+
+#EXTINF:-1 tvg-chno="0150" group-title="TV",UNIVERSAL TV
+http://201.148.116.23:8086/udp/226.226.0.150:4000
+
+#EXTINF:-1 tvg-chno="0151" group-title="TV",USA NETWORK
+http://201.148.116.23:8086/udp/226.226.0.151:4000
+
+#EXTINF:-1 tvg-chno="0152" group-title="TV",WARNER
+http://201.148.116.23:8087/udp/239.192.1.152:1234
+
+#EXTINF:-1 tvg-chno="0153" group-title="TV",FILM & ARTS
+http://201.148.116.23:8085/udp/224.224.0.153:4000
+
+#EXTINF:-1 tvg-chno="0154" group-title="TV",EUROCHANNEL
+http://201.148.116.23:8085/udp/224.224.0.154:4000
+
+#EXTINF:-1 tvg-chno="0155" group-title="TV",AMC
+http://201.148.116.23:8085/udp/224.224.0.155:4000
+
+#EXTINF:-1 tvg-chno="0156" group-title="TV",TNT NOVELAS
+http://201.148.116.23:8086/udp/226.226.0.156:4000
+
+#EXTINF:-1 tvg-chno="0157" group-title="TV",PRIME BOX
+http://201.148.116.23:8086/udp/226.226.0.157:4000
+
+#EXTINF:-1 tvg-chno="0179" group-title="TV",HALLO! DOC
+https://201.148.116.23:8043/Hallo_Doc/index.m3u8
+
+#EXTINF:-1 tvg-chno="0180" group-title="TV",HISTORY
+http://201.148.116.23:8087/udp/239.192.1.180:1234
+
+#EXTINF:-1 tvg-chno="0181" group-title="TV",HISTORY 2
+http://201.148.116.23:8087/udp/239.192.1.181:1234
+
+#EXTINF:-1 tvg-chno="0182" group-title="TV",BM&C NEWS
+http://201.148.116.23:8086/udp/226.226.0.182:4000
+
+#EXTINF:-1 tvg-chno="0183" group-title="TV",ANIMAL PLANET
+http://201.148.116.23:8086/udp/226.226.0.183:4000
+
+#EXTINF:-1 tvg-chno="0184" group-title="TV",DISCOVERY CHANNEL
 http://201.148.116.23:8086/udp/226.226.0.184:4000
 
-#EXTINF:-1 tvg-name="Leo_E_Lully",Leo_E_Lully
-https://flussonic.sounick.com.br/Leo_E_Lully/index.m3u8
+#EXTINF:-1 tvg-chno="0185" group-title="TV",DISCOVERY SCIENCE
+http://201.148.116.23:8087/udp/239.192.1.185:1234
+
+#EXTINF:-1 tvg-chno="0186" group-title="TV",DISCOVERY WORLD
+http://201.148.116.23:8087/udp/239.192.1.186:1234
+
+#EXTINF:-1 tvg-chno="0187" group-title="TV",DISCOVERY THEATER
+http://201.148.116.23:8087/udp/239.192.1.187:1234
+
+#EXTINF:-1 tvg-chno="0188" group-title="TV",DISCOVERY TURBO
+http://201.148.116.23:8087/udp/239.192.1.188:1234
+
+#EXTINF:-1 tvg-chno="0189" group-title="TV",TLC
+http://201.148.116.23:8086/udp/226.226.0.189:4000
+
+#EXTINF:-1 tvg-chno="0190" group-title="TV",ID BRASIL
+http://201.148.116.23:8086/udp/226.226.0.190:4000
+
+#EXTINF:-1 tvg-chno="0191" group-title="TV",FOOD NETWORK
+http://201.148.116.23:8086/udp/226.226.0.191:4000
+
+#EXTINF:-1 tvg-chno="0192" group-title="TV",HOME & HEALTH
+http://201.148.116.23:8086/udp/226.226.0.192:4000
+
+#EXTINF:-1 tvg-chno="0193" group-title="TV",HGTV
+http://201.148.116.23:8086/udp/226.226.0.193:4000
+
+#EXTINF:-1 tvg-chno="0194" group-title="TV",SABOR E ARTE
+http://201.148.116.23:8086/udp/226.226.0.194:4000
+
+#EXTINF:-1 tvg-chno="0200" group-title="TV",FISH TV
+http://201.148.116.23:8086/udp/226.226.0.200:4000
+
+#EXTINF:-1 tvg-chno="0201" group-title="TV",TERRA VIVA
+http://201.148.116.23:8086/udp/226.226.0.201:4000
+
+#EXTINF:-1 tvg-chno="0202" group-title="TV",AGRO+
+http://201.148.116.23:8086/udp/226.226.0.202:4000
+
+#EXTINF:-1 tvg-chno="0203" group-title="TV",AGROPLUS
+https://201.148.116.23:8043/Agroplus/index.m3u8
+
+#EXTINF:-1 tvg-chno="0204" group-title="TV",AGRO CANAL
+http://201.148.116.23:8085/udp/224.224.0.204:4000
+
+#EXTINF:-1 tvg-chno="0205" group-title="TV",CANAL DO BOI
+https://201.148.116.23:8043/canal_do_boi/index.m3u8
+
+#EXTINF:-1 tvg-chno="0206" group-title="TV",CANAL RURAL
+rtmp://stream02.canalrural.com.br:1935/crur.e/cr2
+
+#EXTINF:-1 tvg-chno="0220" group-title="TV",PREMIERE FC
+http://201.148.116.23:8086/udp/226.226.0.220:4000
+
+#EXTINF:-1 tvg-chno="0221" group-title="TV",PREMIERE FC 2
+http://201.148.116.23:8086/udp/226.226.0.221:4000
+
+#EXTINF:-1 tvg-chno="0222" group-title="TV",PREMIERE FC 3
+http://201.148.116.23:8086/udp/226.226.0.222:4000
+
+#EXTINF:-1 tvg-chno="0223" group-title="TV",PREMIERE FC 4
+http://201.148.116.23:8086/udp/226.226.0.223:4000
+
+#EXTINF:-1 tvg-chno="0227" group-title="TV",PREMIERE FC 8
+http://201.148.116.23:8086/udp/226.226.0.227:4000
+
+#EXTINF:-1 tvg-chno="0240" group-title="TV",COMBATE
+http://201.148.116.23:8086/udp/226.226.0.240:4000
+
