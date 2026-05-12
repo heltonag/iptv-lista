@@ -11,3 +11,6 @@ http://201.148.116.23:8085/udp/224.224.0.39:4000
 
 #EXTINF:-1 tvg-name="SPORTV_Transcodado",SPORTV_Transcodado
 http://201.148.116.23:8085/udp/239.192.1.251:1234
+
+#EXTINF:-1 tvg-name="Discovery_Channel",Discovery Channel
+http://201.148.116.23:8086/udp/224.224.0.184:4000
