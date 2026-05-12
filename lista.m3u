@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="NUMERO CANAL" group-title="TV",NOME CANAL
-STREAM
 
 #EXTINF:-1 tvg-chno="0002" group-title="TV",TV CAMARA
 https://201.148.116.23:8043/TV_Camara/index.m3u8
