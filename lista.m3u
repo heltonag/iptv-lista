@@ -169,7 +169,7 @@ http://201.148.116.23:8085/udp/224.224.0.76:4000
 https://201.148.116.23:8043/TV_Novo_Tempo/index.m3u8
 
 #EXTINF:-1 tvg-chno="0080" group-title="TV",JP NEWS
-http://201.148.116.23:8085/udp/224.224.0.80:4000
+https://201.148.116.23:8043/jovenpan/index.m3u8
 
 #EXTINF:-1 tvg-chno="0081" group-title="TV",RECORD NEWS
 http://201.148.116.23:8085/udp/224.224.0.81:4000
