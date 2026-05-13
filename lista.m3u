@@ -91,7 +91,7 @@ http://201.148.116.23:8085/udp/224.224.0.31:4000
 http://201.148.116.23:8085/udp/239.192.1.251:1234
 
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-chno="0040" group-title="TV",GLOBONEWS
-http://201.148.116.23:8085/udp/224.224.0.43:4000
+http://201.148.116.23:8085/udp/224.224.0.40:4000
 
 #EXTINF:-1 tvg-id="GNT" tvg-chno="0041" group-title="TV",GNT
 http://201.148.116.23:8085/udp/224.224.0.41:4000
