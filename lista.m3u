@@ -219,6 +219,12 @@ http://201.148.116.23:8085/udp/224.224.0.96:4000
 #EXTINF:-1 tvg-chno="0097" group-title="TV",WOOHOO
 http://201.148.116.23:8085/udp/224.224.0.97:4000
 
+#EXTINF:-1 tvg-chno="0099" group-title="INTERNACIONAL",FRANCE 24 (in english)
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="0100" group-title="INTERNACIONAL",FRANCE 24 (en espanol)
+https://a-cdn.klowdtv.com/live2/france24sp_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-chno="0101" group-title="TV",DW (in english)
 https://201.148.116.23:8043/DW_Deutsch/index.m3u8
 
@@ -260,6 +266,24 @@ http://201.148.116.23:8085/udp/226.226.0.118:4000
 
 #EXTINF:-1 tvg-chno="0119" group-title="TV",FASHION TV
 http://201.148.116.23:8085/udp/224.224.0.130:4000
+
+#EXTINF:-1 tvg-chno="0123" group-title="FILMES",HALLO MOVIES
+https://201.148.116.23:8043/Hallo_Movies/index.m3u8
+
+#EXTINF:-1 tvg-chno="0124" group-title="FILMES",HALLO MOVIES 2
+https://201.148.116.23:8043/Hallo_Movie2/index.m3u8
+
+#EXTINF:-1 tvg-chno="0125" group-title="FILMES",HALLO BRASIL
+https://201.148.116.23:8043/Hallo_Brasil/index.m3u8
+
+#EXTINF:-1 tvg-chno="0126" group-title="SERIES",HALLO DORAMA
+https://201.148.116.23:8043/Hallo_Dorama/index.m3u8
+
+#EXTINF:-1 tvg-chno="0127" group-title="FILMES",HALLO CLASSIC
+https://201.148.116.23:8043/Hallo_Classic/index.m3u8
+
+#EXTINF:-1 tvg-chno="0128" group-title="SERIES",HALLO SERIES
+https://201.148.116.23:8043/Hallo_series/index.m3u8
 
 #EXTINF:-1 tvg-chno="0129" group-title="TV",CANAL BRASIL
 http://201.148.116.23:8086/udp/226.226.0.129:4000
