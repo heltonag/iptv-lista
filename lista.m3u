@@ -358,7 +358,7 @@ http://201.148.116.23:8087/udp/239.192.1.180:1234
 http://201.148.116.23:8087/udp/239.192.1.181:1234
 
 #EXTINF:-1 tvg-chno="0182" group-title="TV",BM&C NEWS
-http://201.148.116.23:8086/udp/226.226.0.182:4000
+https://201.148.116.23:8043/bmc_news/index.m3u8
 
 #EXTINF:-1 tvg-chno="0183" group-title="TV",ANIMAL PLANET
 http://201.148.116.23:8086/udp/226.226.0.183:4000
