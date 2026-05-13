@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://201.148.116.23/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/heltonag/iptv-lista/refs/heads/main/guide.xml"
 
 #EXTINF:-1 tvg-id="TV CAMARA" tvg-chno="0002" group-title="TV",TV CAMARA
 https://201.148.116.23:8043/TV_Camara/index.m3u8
@@ -132,7 +132,7 @@ http://201.148.116.23:8085/udp/224.224.0.57:4000
 #EXTINF:-1 tvg-chno="0058" group-title="TV",DUM DUM
 https://201.148.116.23:8043/dumdum/index.m3u8
 
-#EXTINF:-1 tvg-id="LEO &amp; LULLY" tvg-chno="0059" group-title="TV",LEO & LULLY
+#EXTINF:-1 tvg-id="leo_lully" tvg-chno="0059" group-title="TV",LEO & LULLY
 https://201.148.116.23:8043/Leo_E_Lully/index.m3u8
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-chno="0066" group-title="TV",REDE VIDA
@@ -189,7 +189,7 @@ http://201.148.116.23:8085/udp/224.224.0.85:4000
 #EXTINF:-1 tvg-id="CNN MONEY" tvg-chno="0086" group-title="TV",CNN MONEY
 https://201.148.116.23:8043/CNN_Money/index.m3u8
 
-#EXTINF:-1 tvg-id="TIMES BRASIL | CNBC" tvg-chno="0087" group-title="TV",TIMES BRASIL | CNBC
+#EXTINF:-1 tvg-id="times_brasil_cnbc" tvg-chno="0087" group-title="TV",TIMES BRASIL | CNBC
 https://201.148.116.23:8043/Times_Brasil/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL UOL" tvg-chno="0088" group-title="TV",CANAL UOL
@@ -243,7 +243,7 @@ http://201.148.116.23:8086/udp/226.226.0.110:4000
 #EXTINF:-1 tvg-id="ARTE1" tvg-chno="0111" group-title="TV",ARTE1
 http://201.148.116.23:8086/udp/226.226.0.111:4000
 
-#EXTINF:-1 tvg-id="CURTA!" tvg-chno="0112" group-title="TV",CURTA!
+#EXTINF:-1 tvg-id="curta" tvg-chno="0112" group-title="TV",CURTA!
 https://201.148.116.23:8043/curta/index.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-chno="0113" group-title="TV",MUSIC BOX BRASIL
@@ -345,7 +345,7 @@ http://201.148.116.23:8087/udp/239.192.1.147:1234
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-chno="0148" group-title="TV",SONY MOVIES
 http://201.148.116.23:8087/udp/239.192.1.148:1234
 
-#EXTINF:-1 tvg-id="A&amp;E" tvg-chno="0149" group-title="TV",A&E
+#EXTINF:-1 tvg-id="ae" tvg-chno="0149" group-title="TV",A&E
 http://201.148.116.23:8087/udp/239.192.1.149:1234
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-chno="0150" group-title="TV",UNIVERSAL TV
@@ -357,7 +357,7 @@ http://201.148.116.23:8086/udp/226.226.0.151:4000
 #EXTINF:-1 tvg-id="WARNER" tvg-chno="0152" group-title="TV",WARNER
 http://201.148.116.23:8087/udp/239.192.1.152:1234
 
-#EXTINF:-1 tvg-id="FILM &amp; ARTS" tvg-chno="0153" group-title="TV",FILM & ARTS
+#EXTINF:-1 tvg-id="film_arts" tvg-chno="0153" group-title="TV",FILM & ARTS
 http://201.148.116.23:8085/udp/224.224.0.153:4000
 
 #EXTINF:-1 tvg-id="EUROCHANNEL" tvg-chno="0154" group-title="TV",EUROCHANNEL
@@ -372,7 +372,7 @@ http://201.148.116.23:8086/udp/226.226.0.156:4000
 #EXTINF:-1 tvg-id="PRIME BOX" tvg-chno="0157" group-title="TV",PRIME BOX
 http://201.148.116.23:8086/udp/226.226.0.157:4000
 
-#EXTINF:-1 tvg-id="HALLO! DOC" tvg-chno="0179" group-title="TV",HALLO! DOC
+#EXTINF:-1 tvg-id="hallo_doc" tvg-chno="0179" group-title="TV",HALLO! DOC
 https://201.148.116.23:8043/Hallo_Doc/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-chno="0180" group-title="TV",HISTORY
