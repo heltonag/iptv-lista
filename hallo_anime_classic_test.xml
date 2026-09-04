@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="XMLTV Test">
+  <channel id="hallo.anime">
+    <display-name>Hallo Anime</display-name>
+  </channel>
+  <channel id="hallo.classic">
+    <display-name>Hallo Classic</display-name>
+  </channel>
+  <programme start="20260904000000 -0300" stop="20260904020000 -0300" channel="hallo.anime">
+    <title lang="pt">Anime Clássicos</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904020000 -0300" stop="20260904040000 -0300" channel="hallo.anime">
+    <title lang="pt">Aventura Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904040000 -0300" stop="20260904060000 -0300" channel="hallo.anime">
+    <title lang="pt">Heróis da Manhã</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904060000 -0300" stop="20260904080000 -0300" channel="hallo.anime">
+    <title lang="pt">Mundo Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904080000 -0300" stop="20260904100000 -0300" channel="hallo.anime">
+    <title lang="pt">Especial Hallo Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904100000 -0300" stop="20260904120000 -0300" channel="hallo.anime">
+    <title lang="pt">Batalhas Épicas</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904120000 -0300" stop="20260904140000 -0300" channel="hallo.anime">
+    <title lang="pt">Anime da Tarde</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904140000 -0300" stop="20260904160000 -0300" channel="hallo.anime">
+    <title lang="pt">Maratona Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904160000 -0300" stop="20260904180000 -0300" channel="hallo.anime">
+    <title lang="pt">Prime Time Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904180000 -0300" stop="20260904200000 -0300" channel="hallo.anime">
+    <title lang="pt">Anime Night</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904200000 -0300" stop="20260904220000 -0300" channel="hallo.anime">
+    <title lang="pt">Clássicos da Madrugada</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904220000 -0300" stop="20260905000000 -0300" channel="hallo.anime">
+    <title lang="pt">Madrugada Anime</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Anime.</desc>
+    <category lang="pt">Anime</category>
+  </programme>
+  <programme start="20260904000000 -0300" stop="20260904020000 -0300" channel="hallo.classic">
+    <title lang="pt">Cinema Clássico</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904020000 -0300" stop="20260904040000 -0300" channel="hallo.classic">
+    <title lang="pt">Grandes Histórias</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904040000 -0300" stop="20260904060000 -0300" channel="hallo.classic">
+    <title lang="pt">Manhã de Clássicos</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904060000 -0300" stop="20260904080000 -0300" channel="hallo.classic">
+    <title lang="pt">Sessão Retrô</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904080000 -0300" stop="20260904100000 -0300" channel="hallo.classic">
+    <title lang="pt">Especial Hallo Classic</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904100000 -0300" stop="20260904120000 -0300" channel="hallo.classic">
+    <title lang="pt">Clássicos da Tarde</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904120000 -0300" stop="20260904140000 -0300" channel="hallo.classic">
+    <title lang="pt">Cinema em Casa</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904140000 -0300" stop="20260904160000 -0300" channel="hallo.classic">
+    <title lang="pt">Fim de Tarde Classic</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904160000 -0300" stop="20260904180000 -0300" channel="hallo.classic">
+    <title lang="pt">Clássico do Horário Nobre</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904180000 -0300" stop="20260904200000 -0300" channel="hallo.classic">
+    <title lang="pt">Cinema da Noite</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904200000 -0300" stop="20260904220000 -0300" channel="hallo.classic">
+    <title lang="pt">Sessão da Madrugada</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+  <programme start="20260904220000 -0300" stop="20260905000000 -0300" channel="hallo.classic">
+    <title lang="pt">Arquivo Classic</title>
+    <desc lang="pt">Programação simbólica de teste do canal Hallo Classic.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+</tv>
